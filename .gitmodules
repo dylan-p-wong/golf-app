@@ -1,0 +1,6 @@
+[submodule "golfapp-api"]
+	path = golfapp-api
+	url = https://github.com/dylan-p-wong/golfapp-api
+[submodule "golfapp-client"]
+	path = golfapp-client
+	url = https://github.com/dylan-p-wong/golfapp-client
