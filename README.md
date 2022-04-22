@@ -4,8 +4,6 @@ A app to store, analyze golf swings and recieve and give lessons.
 
 [Video Demo](https://vimeo.com/701867003)
 
-[Live Demo](https://golf.dylanwong.ca) (Project is not activity monitored)
-
 ## About The Project
 
 ![alt text](https://i.imgur.com/MR3CCin.png)
